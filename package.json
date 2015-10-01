@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mummie/ID_Authenticate"
+    "url": "https://github.com/Mummie/Login_Passport"
   },
   "author": "Mummie",
   "dependencies": {
